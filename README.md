@@ -1,4 +1,11 @@
 # QAQ-
+Bort wants to know how many subsequences "QAQ" are in the string Diamond has given. Note that the letters "QAQ" don't have to be consecutive, but the order of letters should be exact.
+
+Input
+The only line contains a string of length n (1 ≤ n ≤ 100). It's guaranteed that the string only contains uppercase English letters.
+
+Output
+Print a single integer — the number of subsequences "QAQ" in the string.
 ```python
 a=str(input())
 ma=0
